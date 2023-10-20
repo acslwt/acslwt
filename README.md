@@ -1,7 +1,7 @@
-# <div align="center">👋 Bonjour, je suis Ayoub CHENINI</div>  
+# <div align="center">🖥️ Etudiant en Génie Logiciel 🖥️</div>  
   
 
-## <div align="center">🖥️ Etudiant en Génie Logiciel 🖥️</div>  
+##  <div align="center">👋 Ayoub CHENINI 👋</div>
 
 - 🔭 Master Génie Logiciel
 
