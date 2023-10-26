@@ -52,7 +52,7 @@
   
   <tr>
     <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=acslwt&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></th>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=acslwt&theme=dark&border_radius=5&locale=fr" /></th>
+    <th><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=acslwt&theme=dark&border_radius=5&locale=fr" alt="GitHub Streak" /></a></th>
   </tr>
 </thead>
 <tbody>
