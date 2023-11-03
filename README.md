@@ -64,15 +64,8 @@
 </table>
 
 
-## Me contacter  
-<div align="center">
-<a href="https://github.com/Adam-Said" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.com/users/286958437844385792" target="_blank">
-<img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-<a href="https://adam-net.fr/" target="_blank">
+## Me contacter
+<a href="https://heyhey.to/Ayoub" target="_blank">
 <img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=GO&url=https%3A%2F%2Fadam-net.fr%2F">
 </a> 
 </div>  
